@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pablo
 - 👀 I’m interested in create plugins for minecraft, make servers, draw and more..
-- 🌱 I’m currently learning Java (actual for 19.02.2024)
+- 🌱 I’m currently learning Java (actual for 17.03.2024)
 - 💞️ I’m not looking for cooperation, maybe later
 - 📫 How to reach me: https://discord.com/invite/mQjrcpNqwQ 
 
