@@ -1,8 +1,7 @@
 👋 Hi, I’m Pablo
 
-<div id="header" align="left">
-  <img src="https://tenor.com/ru/view/sao-sword-art-online-мастер-меча-онлайн-anime-врата-между-миром-людей-и-монстров-открылись-gif-1910027836357621394" width="400"/>
-</div>
+
+![777](https://github.com/user-attachments/assets/8fb3743b-a93d-45a4-a796-2aad0b568c2f)
 
 ❤️‍🔥 Cooperation? idk, my knowledge is very low
 
