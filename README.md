@@ -1,7 +1,7 @@
 👋 Hi, I’m Pablo
 
 ❤️‍🔥 Cooperation? idk, my knowledge is very low
-.
+
 🪽 Someday there will be something useful here
 ------
 <div id="badges">
